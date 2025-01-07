@@ -1,0 +1,53 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ex4 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP8A3.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GR /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/ex4.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\SrcTst\OOP C++\Course\ex4REF\TGToolNewLine.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP8A3.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP8A4.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ex4.pdb" /debug /machine:I386 /out:"Debug/ex4.exe" /pdbtype:sept 
+".\Debug\Circle.obj"
+".\Debug\DlgInputCircle.obj"
+".\Debug\DlgInputPnt.obj"
+".\Debug\DlgInputSquare.obj"
+".\Debug\DlgTst.obj"
+".\Debug\ex4.obj"
+".\Debug\ex4Doc.obj"
+".\Debug\ex4View.obj"
+".\Debug\Geometry.obj"
+".\Debug\MainFrm.obj"
+".\Debug\NewCircle.obj"
+".\Debug\PointClass.obj"
+".\Debug\Polygon.obj"
+".\Debug\Rect.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TGeoBaseTool.obj"
+".\Debug\TGToolNewLine.obj"
+".\Debug\TGToolNewPoint.obj"
+".\Debug\TGToolNewRect.obj"
+".\Debug\TGToolSelHit.obj"
+".\Debug\TPolyline.obj"
+".\Debug\ex4.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP8A4.tmp"
+<h3>Output Window</h3>
+Compiling...
+TGToolNewLine.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+ex4.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

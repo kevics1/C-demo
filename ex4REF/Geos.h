@@ -1,0 +1,7 @@
+#include "Geometry.h"
+#include "Polygon.h"
+#include "PointClass.h"
+#include "Circle.h"
+#include "Rect.h"
+#include "NewCircle.h"
+#include "TPolyline.h"

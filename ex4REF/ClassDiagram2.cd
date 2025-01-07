@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Square" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Rect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rect" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQABAgAAAAAAAAAAQCCAAAAAAAAAAYAAAAA=</HashCode>
+      <FileName>Rect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPolygon" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAARAAAAAAAAAAAAAAAAAAIAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Polygon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAgACAAAgAAIgAgAA=</HashCode>
+      <FileName>Geometry.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewCircle" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAJAAAAAQAAEAAAAAAAQAAAAAAAAYAAAAA=</HashCode>
+      <FileName>NewCircle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgggCAAAAAAAAQAAAAABAAAAAAIAABQA=</HashCode>
+      <FileName>PointClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPolyline" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAQAgCAAAAAAAAAAAAAAAAAgAAAAIAAAAA=</HashCode>
+      <FileName>TPolyline.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQgJAgAEAAAAAAAAAAgAAAAAAAAAAYAAAAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGeoBaseTool" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIgAAAAAABGABIAAAAAABAAAAARAAA=</HashCode>
+      <FileName>TGeoBaseTool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGToolNewLine" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAAAAAAAAAEAFAAAIAAAAAAAAAQCAA=</HashCode>
+      <FileName>TGToolNewLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGToolNewRect" Collapsed="true">
+    <Position X="3.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAABAABQAAAAAIIAAAAAQAAA=</HashCode>
+      <FileName>TGToolNewRect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGToolSelHit" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQAA=</HashCode>
+      <FileName>TGToolSelHit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGToolNewPoint" Collapsed="true">
+    <Position X="1.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgwAAA=</HashCode>
+      <FileName>TGToolNewPoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEx4View" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEICCwABQAAAASgBAgCBkgBIKAkADEggIAgAQASE=</HashCode>
+      <FileName>ex4View.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

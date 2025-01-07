@@ -1,0 +1,5 @@
+#include "GeoBaseTool.h"
+#include "TGToolNewPoint.h"
+#include "TGToolNewRect.h"
+#include "TGToolSelHit.h"
+#include "TGToolNewLine.h"
